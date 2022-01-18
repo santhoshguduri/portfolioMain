@@ -7,7 +7,7 @@ import projectseData from '../../data/projects.json'
 
 const Project = () => {
   return (
-    <Section title="Recent Work">
+    <Section title="Projects">
       <div className="project-content">
         <ul className="project-list">
           {projectseData.experience.reverse().map((exp) => (
