@@ -9,9 +9,9 @@
             "dateFrom": "Aug 2020",
             "dateTo": "Current",
             "info": [
-              "Contributed to the entire software development life cycle by developing, testing, deploying, and maintaining and monitoring the deployed application and took part and design discussion and review processes",
-              "Experienced in debugging, logging, analyzing different solutions and trade-offs, and implementing the best feasible solutions, and delivering the product",
-              "Developed customized SharePoint pages using SPFX framework"
+              "Developed a full stack web application using React.js framework and flutter Api integration",
+              "Its an online gallery application where you can search for images using keyworkds.",
+              "The app maintains the keywords history for quick frequent searches and also pagenates the results"
             ],
             "stack": ["React.js", "Redux", "flutter API"],
             "logowidth": 80,
