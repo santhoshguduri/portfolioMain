@@ -1,0 +1,43 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "amount": "95"
+    },
+    { 
+      "id": 3,
+      "skillName": "Javascript", 
+      "amount": "90" 
+    },
+    { 
+      "id": 6, 
+      "skillName": "Redux", 
+      "amount": "70" },
+    {
+      "id": 8,
+      "skillName": "SPFX",
+      "amount": "80"
+    },
+    {
+      "id": 4,
+      "skillName": "Node.js",
+      "amount": "60"
+    },
+    {
+      "id": 5,
+      "skillName": "Express",
+      "amount": "60"
+    },
+    { 
+      "id": 7, 
+      "skillName": "Azure", 
+      "amount": "40" 
+    },
+    { 
+      "id": 7, 
+      "skillName": "Flutter", 
+      "amount": "30" 
+    }
+  ]
+}

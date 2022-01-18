@@ -1,0 +1,37 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "link": "https://www.technovert.com",
+      "company": "Technovert",
+      "title": "Intern",
+      "dateFrom": "Dec 2019",
+      "dateTo": "Aug 2020",
+      "info": [
+        "Developed a full-stack web application using with Dot net serving a REST API with React as the front end using JWT and Identity library for authentication.",
+        "Contributed to the internal product by developing User interfaces using React.js, refactored existing code-base and fixed issues by debugging and improved performance."
+      ],
+      "stack": ["dotnet", "react.js", "sqlserver", "google maps/distance matrix"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 0,
+      "link": "https://www.technovert.com",
+      "company": "Technovert",
+      "title": "Developer",
+      "dateFrom": "Aug 2020",
+      "dateTo": "Current",
+      "info": [
+        "Contributed to the entire software development life cycle by developing, testing, deploying, and maintaining and monitoring the deployed application and took part and design discussion and review processes",
+        "Experienced in debugging, logging, analyzing different solutions and trade-offs, and implementing the best feasible solutions, and delivering the product",
+        "Developed customized SharePoint pages using SPFX framework"
+      ],
+      "stack": ["React.js", "SPFX", "Azure Functions", "Gulp"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    }
+  ]
+}
